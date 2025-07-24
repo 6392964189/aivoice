@@ -1,0 +1,11 @@
+[project]
+name = "assistant-ai"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "groq>=0.30.0",
+    "opencv-python>=4.12.0.88",
+    "python-dotenv>=1.1.1",
+]
